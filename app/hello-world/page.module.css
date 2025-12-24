@@ -1,0 +1,9 @@
+.title {
+    background: teal;
+    color: white;
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: 1.4rem;
+    text-align: center;
+    padding: 10px 0px;
+}
